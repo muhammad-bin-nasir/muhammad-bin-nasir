@@ -1,7 +1,7 @@
-<img src="PP.jpg" alt="Profile Picture" width="200"/>
 # Hello! I’m Muhammad Bin Nasir 👋
-
-
+<div align="center">
+<img src="PP.jpg" alt="Profile Picture" width="200"/>
+</div>
 
 With a foundation in Computer Science and expertise in data-driven solutions using Python and Keras, I bring a strategic approach to solving complex challenges. My work spans data analysis, machine learning, AI, and computer vision, where I apply critical thinking and a results-oriented mindset to deliver impactful solutions.
 
