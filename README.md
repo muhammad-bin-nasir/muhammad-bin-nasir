@@ -12,18 +12,6 @@ With a foundation in Computer Science and expertise in data-driven solutions usi
 
 ---
 
-### Notable Projects
-
-**1. [Project Title: A brief, impactful one-liner]**
-   - Description: [A concise description of the project, its objective, and any key results or impacts.]
-   - Technologies: [List of technologies used, e.g., Python, Keras, OpenCV]
-
-**2. [Project Title: Another impactful one-liner]**
-   - Description: [Brief description with emphasis on purpose, approach, and outcomes.]
-   - Technologies: [List of technologies used]
-
----
-
 ### Current Focus
 I am currently focused on advancing my skills in:
 - **Deep Learning & AI**: Developing models that enhance automation and predictive capabilities
